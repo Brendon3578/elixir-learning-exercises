@@ -12,7 +12,15 @@ There you can solve the problems and you can see the solutions made by other peo
 
 <center>
   <h3>Checkout my percentage of exercises done.</h3>
-<img alt="Percentage of exercises done" src="./github/exercises_percentage.PNG" height="250px">
+
+  #### Today
+  | <img alt="Percentage of exercises done today" src="./github/update_2.PNG" height="55px"> |
+  | :-: |
+  | <img alt="Percentage of exercises done today" src="./github/actual_track.PNG" height="200px"> |
+
+
+  #### 09/05/2023
+<img alt="Percentage of exercises done in 09/05/2023" src="./github/update_1.PNG" height="60px">
 </center>
 
 
