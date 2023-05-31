@@ -6,23 +6,27 @@
 Exercises I solved, on the Exercism platform, it's great for learning a new programming language.
 There you can solve the problems and you can see the solutions made by other people.
 
+You can see the summary of the exercises here: [Syllabus](/syllabus.md)
+
 [Brendon3578's Exercism Profile](https://exercism.org/profiles/Brendon3578)
 
 [Exercism - Elixir track](https://exercism.org/tracks/elixir)
 
-<center>
-  <h3>Checkout my percentage of exercises done.</h3>
+## Checkout my percentage of exercises done
 
-  #### Today
-  | <img alt="Percentage of exercises done today" src="./github/update_2.PNG" height="55px"> |
-  | :-: |
-  | <img alt="Percentage of exercises done today" src="./github/actual_track.PNG" height="200px"> |
+### Today - 30/05/2023
 
+<img alt="Percentage of exercises done today" src="./github/update_3.PNG" width="550px">
 
-  #### 09/05/2023
-<img alt="Percentage of exercises done in 09/05/2023" src="./github/update_1.PNG" height="60px">
-</center>
+<img alt="Percentage of exercises done today" src="./github/actual_track.PNG" width="550px">
 
+### 18/05/2023
+
+<img alt="Percentage of exercises done today" src="./github/update_2.PNG" width="550px">
+
+### 09/05/2023
+
+<img alt="Percentage of exercises done in 09/05/2023" src="./github/update_1.PNG" width="550px">
 
 ## Installation
 
@@ -30,4 +34,3 @@ There you can solve the problems and you can see the solutions made by other peo
 # Install elixir dependencies
 mix deps.get
 ```
-
